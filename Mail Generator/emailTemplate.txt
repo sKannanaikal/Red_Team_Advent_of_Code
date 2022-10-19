@@ -1,0 +1,5 @@
+Hi $NAME,
+
+I know you are $ROLE pls give me a working thingie
+
+blah blah
